@@ -2,39 +2,41 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 15px;
     padding: 15px;
-    background-color:rgb(12, 74, 0);
-    color:firebrick;
+    background-color:rgb(31, 124, 15);
+    color:rgb(137, 19, 19);
 }
 header {
     background-color:rgb(137, 19, 19);
-    color:rgb(15, 92, 2);
+    color:rgb(34, 150, 13);
     padding: 15px;
     text-align:center;
 }
 
-header nav ol li {
-    color: rgb(9, 114, 35);
-    display:flow-root;
+header nav ol li a{
+    color: limegreen;
+    display: flow-root;
+
 }
 
+
 header nav ul li {
-    color: rgb(9, 114, 35);
+    color:limegreen;
     display:flow-root;
 }
 
 header nav ul li a {
-    color: rgb(9, 114, 35);
-    text-decoration:dotted;
+    color:limegreen;
+    display: flow-root;
 }
 
 main {
     padding: 15px;
 }
 
-.gallery{
+.gallery img {
     display:block;
-    justify-content:space-between;
+    justify-content:center;
     margin-top: 15px;
-    width: 600px;
-    height: 600px;
+    width: 1200px;
+    height: 1000px;
 }
