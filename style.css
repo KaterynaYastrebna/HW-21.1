@@ -4,3 +4,9 @@ body{
     padding: 50;
     background-color: rgb(111, 201, 150);
 }
+header{
+    background-color: darkcyan
+    color(srgb rgb(0, 191, 255) rgb(9, 94, 9) rgb(3, 23, 123));
+    padding: 20px;
+    text-align: center;
+}
